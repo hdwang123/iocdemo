@@ -10,7 +10,7 @@ import com.hdwang.ioc.example.model.User;
 public class Main {
 
     /**
-     * 主函数入库
+     * 主函数入口
      *
      * @param args 入参
      */

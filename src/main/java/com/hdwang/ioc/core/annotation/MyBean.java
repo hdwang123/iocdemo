@@ -15,7 +15,7 @@ import java.lang.annotation.Target;
 public @interface MyBean {
 
     /**
-     * 待存入ioc容器的Bean名称
+     * 待存入ioc容器的Bean名称，为空时仅根据类型存Bean
      *
      * @return Bean名称
      */
