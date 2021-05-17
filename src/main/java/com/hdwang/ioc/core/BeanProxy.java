@@ -21,7 +21,7 @@ public class BeanProxy implements InvocationHandler {
     /**
      * 调用目标bean的相关方法
      *
-     * @param proxy  代理对象
+     * @param proxy  bean的代理对象
      * @param method 方法
      * @param args   参数
      * @return 方法返回值
